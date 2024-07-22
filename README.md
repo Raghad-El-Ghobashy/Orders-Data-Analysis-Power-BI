@@ -36,6 +36,6 @@ Visualizations were created to show the following:
 ## Reports
 Reports were created to effectively communicate the insights and findings from the data analysis.
 
-![Report 1](https://github.com/Raghad-El-Ghobashy/Orders-Data-Analysis-Power-BI/blob/main/Report%201.PNG)
+Report 1 ![Report 1](https://github.com/Raghad-El-Ghobashy/Orders-Data-Analysis-Power-BI/blob/main/Report%201.PNG)
 
-![Report 2](https://github.com/Raghad-El-Ghobashy/Orders-Data-Analysis-Power-BI/blob/main/Report%202.PNG)
+Report 2 ![Report 2](https://github.com/Raghad-El-Ghobashy/Orders-Data-Analysis-Power-BI/blob/main/Report%202.PNG)
