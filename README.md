@@ -1,4 +1,4 @@
-# 📊 Orders Data Analysis Project
+# 📊 Orders Data Analysis
 
 ## Overview
 This project involves analyzing sales data from an Excel file and visualizing various metrics and insights. The data source for this analysis is `Sales.xlsx`.
